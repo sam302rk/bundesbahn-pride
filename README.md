@@ -1,6 +1,8 @@
 # <img src="pride.png" width="48px"> Bundesbahn Pride
 > Different Pride flag color schemes of the Deutsche Bundesbahn Logo! 🌈
 
+<img src="pride.png" width="64px"> <img src="pride_stroke.png" width="64px"> <img src="pride_ctp.png" width="64px"> <img src="transgender.png" width="64px"> <img src="lesbian.png" width="64px">
+
 ### A flag or variant is missing?
 Please create an issue.
 I will create and commit the missing variant as soon as possible.
