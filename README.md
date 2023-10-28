@@ -1,7 +1,7 @@
 # <img src="pride.png" width="48px"> Bundesbahn Pride
 > Different Pride flag color schemes of the Deutsche Bundesbahn Logo! 🌈
 
-<img src="pride.png" width="64px"> <img src="pride_stroke.png" width="64px"> <img src="pride_ctp.png" width="64px"> <img src="transgender.png" width="64px"> <img src="lesbian.png" width="64px"> <img src="pansexual.png" width="64px"> <img src="pansexual_stroke.png" width="64px"> <img src="bisexual.png" width="64px">
+<img src="pride.png" width="64px"> <img src="pride_stroke.png" width="64px"> <img src="pride_ctp.png" width="64px"> <img src="transgender.png" width="64px"> <img src="lesbian.png" width="64px"> <img src="pansexual.png" width="64px"> <img src="pansexual_stroke.png" width="64px"> <img src="bisexual.png" width="64px"> <img src="asexual_stroke.png" width="64px"> <img src="aromantic_stroke.png" width="64px"> 
 
 ### A flag or variant is missing?
 Please create an issue.
